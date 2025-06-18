@@ -32,6 +32,14 @@ github_username:  jekyll
 ## TZ
 timezone: Asia/Shanghai
 
+header_pages:
+   - index.html
+   - archives.html
+   - categories.html
+   - tags.html
+   - about.md
+   - mirror.html
+
 # Build settings
 # theme: minima
 remote_theme: "jeffreytse/jekyll-theme-yat"
@@ -42,6 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
   - jekyll-remote-theme
+  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
