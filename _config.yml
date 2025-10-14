@@ -74,7 +74,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Page default value
 defaults:
   home:
-  heading: "你好，世界"
-  subheadint: "hello world"
+    heading: "hello world"
+    subheading: "你好，世界"
+    # banner: "Your image url"
