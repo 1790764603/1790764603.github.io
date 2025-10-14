@@ -25,6 +25,8 @@ author: 双重十月
 
 ### 2、答案与解析
 #### （注意事项：windows不区分大小写，Linux必须大写）注意符号和空格，符号全是英文符号，不要使用中文符号
+{% highlight SQL %}
+{% endhighlight %}
 ```SQL
 create database mydb default charset utf8mb4;  创建数据库并设置字符集utf8mb4   
    
