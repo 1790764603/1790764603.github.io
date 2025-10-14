@@ -73,3 +73,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  home:
+  heading: "你好，世界"
+  subheadint: "hello world"
