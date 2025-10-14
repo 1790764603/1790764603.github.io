@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "计算机网络简单概述"
+title:  "mysql作业"
 date:  2025-06-18 22:42:47 +0800
 categories: mysql
 excerpt_image: /assets/dong_man/bai_si.png
