@@ -42,7 +42,7 @@ MySQL 是一款开源的关系型数据库管理系统（RDBMS），核心功能
 ![添加变量](/assets/mysql/添加变量.png)
 把MySQL的<span style="color:red">bin</span>目录路径添加进去
 添加完成后保存关闭所有窗口，重新打开一个命令终端验证是否成功
-```
+```MySQL
 mysql -u root -p
 输入密码
 ```
