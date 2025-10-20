@@ -53,7 +53,7 @@ show databases;
 <hr style="border-color: blue;"><br>
 
 ### 四、删除所创建的数据库 <span style="color:red">DROP DATABASE</span> <span style="color:blue">MYDB</span>;
-用法：drop是删除的意思，后面跟着的是要删除的数据库名称
+用法：drop database是删除的意思，后面跟着的是要删除的数据库名称
 ```
 drop database mydb;
 ```
