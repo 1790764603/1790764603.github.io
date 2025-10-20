@@ -40,7 +40,7 @@ MySQL -u root -p123456
 CREATE DATABASE MYDB;
 ```
 提示：注意<span style="color:red">“ \; ”</span>分号是用来告诉程序这段话到这里结束的，每次输入命令的最后都要加上“分号”表示结束
-
+<hr style="border-color: blue;"><br>
 
 ### 三、查看创建的数据库 <span style="color:red">SHOW DATABASES;</span>
 用法：直接输入即可，无需其他参数。(提示：databases和database后面多个s)
@@ -50,7 +50,7 @@ show databases;
 可用于查看创建的所有数据库
 ![图片](/assets/mysql/database-all.png)
 以上是作者的所有数据库
-
+<hr style="border-color: blue;"><br>
 
 ### 四、删除所创建的数据库 <span style="color:red">DROP DATABASE/span> <span style="color:blue">MYDB字</span>;
 用法：drop是删除的意思，后面跟着的是要删除的数据库名称
