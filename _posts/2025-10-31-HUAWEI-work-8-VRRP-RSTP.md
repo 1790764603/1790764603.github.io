@@ -19,7 +19,7 @@ PC2  IP: 192.168.20.20  网关: 192.168.20.254
 PC3  IP: 17.16.50.10    网关: 17.16.50.1
 ```
 
-### R1的配置命令
+### R1配置命令
 - 基础配置
 ```bash
 system-view 
@@ -52,7 +52,7 @@ network 10.1.1.1 0.0.0.0
 
 <br>
 
-### agg01的配置命令
+### agg01配置命令
 - 基础配置
 ```bash
 system-view 
@@ -123,7 +123,7 @@ quit
 
 <br>
 
-### agg02的配置命令
+### agg02置命令
 - 基础配置
 ```bash
 system-view 
@@ -195,7 +195,7 @@ quit
 
 <br>
 
-### acc01的配置命令
+### acc01配置命令
 - 基础配置
 ```bash
 system-view 
@@ -229,7 +229,7 @@ port trunk allow-pass vlan 10 20
 quit
 ```
 
-### acc02的配置命令
+### acc02配置命令
 - 基础配置
 ```bash
 system-view 
