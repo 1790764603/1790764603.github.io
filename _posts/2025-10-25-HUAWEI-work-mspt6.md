@@ -2,7 +2,7 @@
 layout: post
 title:  "HUAWEI数通作业6-MSTP + 链路聚合"
 date:  2025-10-25 17:04:47 +0800
-categories: mysql
+categories: HUAWEI-ENSP
 excerpt_image: /assets/dong_man/bai_si.png
 author: 双重十月
 ---
