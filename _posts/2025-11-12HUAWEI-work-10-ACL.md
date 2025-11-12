@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "HUAWEI数通作业8-VRRPP + RSTP"
-date:  2025-10-25 17:04:47 +0800
+title:  "HUAWEI数通作业10-ACL实验"
+date:  2025-11-12 17:04:47 +0800
 categories: HUAWEI-ENSP
 excerpt_image: /assets/dong_man/碧蓝档案优香.jpg
 author: 双重十月
