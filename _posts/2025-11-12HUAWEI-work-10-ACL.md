@@ -26,15 +26,15 @@ undo info-center enable
 ```
 
 - IP配置
-{% highlight cisco %}
+```bash
 interface GigabitEthernet0/0/1
 ip address 192.168.1.2 255.255.255.0
 quit
-{% endhighlight %}
+```
 
 - OSPF配置
-{% highlight cisco %}
+```bash
 ospf
 area 0.0.0.0
 network 192.168.1.0 0.0.0.255
-{% endhighlight %}
+```
