@@ -85,7 +85,7 @@ vrrp vrid 2 virtual-ip 192.168.20.254
 quit
 ```
 
-- RSP配置
+- RSTP配置
 ```bash
 stp enable 
 stp mode rstp 
@@ -157,7 +157,7 @@ vrrp vrid 2 track interface GigabitEthernet 0/0/8 reduced 30
 quit
 ```
 
-- RSP配置
+- RSTP配置
 ```bash
 stp enable 
 stp mode rstp 
@@ -208,7 +208,7 @@ sysname acc01
 vlan batch 20 10
 ```
 
-- RSP配置
+- RSTP配置
 ```bash
 stp enable 
 stp mode rstp 
@@ -242,7 +242,7 @@ sysname acc02
 vlan batch 20 10
 ```
 
-- RSP配置
+- RSTP配置
 ```bash
 stp enable 
 stp mode rstp 
