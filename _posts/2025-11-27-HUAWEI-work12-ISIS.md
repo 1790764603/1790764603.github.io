@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HUAWEI数通作业12-ISIS协议"
-date:  2025-11-57 20:04:47 +0800
+date:  2025-11-27 20:04:47 +0800
 categories: HUAWEI-ENSP
 excerpt_image: /assets/dong_man/bai_si.png
 author: 双重十月
