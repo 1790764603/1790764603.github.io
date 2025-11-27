@@ -8,7 +8,7 @@ author: 双重十月
 ---
 
 ### 题目要求
-!["题目要求"](/assets/HUAWEI/题目要求.png)
+!["题目要求"](/assets/HUAWEI/ISIS1.png)
 <span style="color:red">下面所有命令对应的接口与图中是一致的，如果你的接口不是图片中的编号，自行调整，避免做出来的结果不通</span>
 
 ### XY-AR1的配置命令
